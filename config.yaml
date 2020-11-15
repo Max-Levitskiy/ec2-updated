@@ -1,0 +1,6 @@
+app:
+  region: eu-central-1
+  tag: myApp
+  ec2:
+    required-amount: 3
+    class: t2.micro
